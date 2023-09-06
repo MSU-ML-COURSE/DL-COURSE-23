@@ -11,7 +11,8 @@
 
 ### Материалы
 
-* to be fullfilled...
+* [1,3 поток](https://github.com/victorkitov/DL)
+* 2 поток, ФИИТ
 
 ### Дополнительные материалы
 [Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
