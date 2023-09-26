@@ -13,6 +13,7 @@
 
 * [1, 3 поток](https://github.com/victorkitov/DL) (лектор: Китов Виктор Владимирович)
 * [2 поток, ФИИТ](https://github.com/girafe-ai/ml-course/tree/23f_msu_dl) (лекторы: Радослав Нейчев, Владислав Гончаренко)
+* [Лекции 2 потока + ФИИТ](https://www.youtube.com/playlist?list=PLhe7c-LCgl4LXJ8_Rm1PLIINq1wLfTTbg)
 
 ### Дополнительные материалы
 [Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
