@@ -2,6 +2,7 @@ import h5py
 import numpy as np
 import os
 from PIL import Image
+from PIL.Image import Image as Image_t
 import matplotlib.pyplot as plt
 import torch
 
@@ -38,7 +39,7 @@ class storage_class(ABC):
         pass
     
     @abstractmethod
-    def __getitem__(self, idx: int) -> tuple[Image, Image]:
+    def __getitem__(self, idx: int) -> tuple[Image_t, Image_t]:
         """
         Вернуть пару (изображение, маска) по индексу `idx`
         """
